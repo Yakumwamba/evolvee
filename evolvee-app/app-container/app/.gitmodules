@@ -1,0 +1,6 @@
+[submodule "bobba_client"]
+	path = bobba_client
+	url = https://github.com/mattreallycodes/bobba_client
+[submodule "vue/src/evolvee-client"]
+	path = vue/src/evolvee-client
+	url = https://github.com/mattreallycodes/bobba_client

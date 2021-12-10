@@ -1,0 +1,3 @@
+[submodule "evolvee-app"]
+	path = evolvee-app
+	url = https://github.com/mattreallycodes/evolvee-app
